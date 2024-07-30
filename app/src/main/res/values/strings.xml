@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ghtk-scan-qr</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="capture">Capture</string>
+    <string name="camera_access_required">Quyen camera duoc yeu cau de su dung chuc nang quet ma</string>
+    <string name="ok">ok</string>
+</resources>
